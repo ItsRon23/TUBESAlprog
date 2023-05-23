@@ -24,5 +24,5 @@ func inputDatawis(datawis *data_wis) {
 		fs data tempat wisata di simpan di tabel data wisata
 			berhenti ketika admin mengetikan stop
 	*/
-	for data
+	for data_parawisata <= 0
 }
